@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="014372fa-c386-4a0b-8f33-692eb4661a5c" name="Default Changelist" comment="" />
+    <list default="true" id="014372fa-c386-4a0b-8f33-692eb4661a5c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1g79hZw2cSdceWlRbEkKoTdFRrp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,23 +39,39 @@
       <option name="presentableId" value="Default" />
       <updated>1597454884125</updated>
       <workItem from="1597454885355" duration="815000" />
-      <workItem from="1597700489042" duration="2953000" />
+      <workItem from="1597700489042" duration="4310000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1597703686959</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597703686959</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1029" y="523" key="#Notifications" timestamp="1597455659469">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1029" y="523" key="#Notifications/0.0.2560.1400/3840.0.1707.920/0.2200.1280.680@0.0.2560.1400" timestamp="1597455659469" />
-    <state x="1157" y="597" width="614" height="206" key="Github.ShareDialog" timestamp="1597701465428">
+    <state x="1157" y="597" width="614" height="206" key="Github.ShareDialog" timestamp="1597703557541">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1157" y="597" width="614" height="206" key="Github.ShareDialog/0.0.2560.1400/3840.0.1707.920/0.2200.1280.680@0.0.2560.1400" timestamp="1597455695700" />
-    <state x="1157" y="597" key="Github.ShareDialog/3840.-61.1707.920/3840.1379.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1597701465428" />
+    <state x="1157" y="597" key="Github.ShareDialog/3840.-61.1707.920/3840.1379.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1597703557541" />
+    <state x="1042" y="321" key="Github.UntrackedFilesDialog" timestamp="1597703457726">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1042" y="321" key="Github.UntrackedFilesDialog/3840.-61.1707.920/3840.1379.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1597703457726" />
     <state x="781" y="344" key="SettingsEditor" timestamp="1597455010536">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
